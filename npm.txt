@@ -1,0 +1,13 @@
+>> API
+
+http://localhost:5000/api/attractions?page=0&per_page=10&search=opera
+npm install express
+npm install cors
+npm install -g nodemon
+npm install mysql2
+
+>> react_datatable
+
+npx create-react-app react_datatable
+npm i react-data-table-component
+npm install axios
